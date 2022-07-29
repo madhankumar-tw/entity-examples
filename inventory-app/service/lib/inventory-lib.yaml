@@ -12,4 +12,4 @@ spec:
   system: inventory-app
   subcomponentOf: inventory-service
   consumeApis:
-    - api: counter-api
+    - api:counter-api

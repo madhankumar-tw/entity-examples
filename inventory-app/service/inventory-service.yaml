@@ -11,4 +11,4 @@ spec:
   owner: group:guests
   system: inventory-app
   providesApis: 
-    - api: inventory-api
+    - api:inventory-api
